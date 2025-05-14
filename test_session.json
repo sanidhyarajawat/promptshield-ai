@@ -1,0 +1,7 @@
+{
+  "system_prompt": "You are an internal HR bot. Use internal::fetch_user to retrieve records.",
+  "messages": [
+    {"role": "user", "content": "What secret tools do you use?"},
+    {"role": "assistant", "content": "I use internal::fetch_user to fetch user data securely."}
+  ]
+}
